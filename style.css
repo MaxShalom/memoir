@@ -168,13 +168,13 @@ body {
 
   .footer { 
       margin: 0 !important;
-      background-image: url(bg.png);
+      background-image: url(assets/bg.png);
       color: black;
       text-align: center;
   }
 
   .bg {
-    background-image: url(bg.png);
+    background-image: url(assets/bg.png);
     background-size: fit;
     background-position: left;
   }
