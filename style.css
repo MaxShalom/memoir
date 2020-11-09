@@ -104,6 +104,7 @@ body {
   #navbar {
     background: linear-gradient(270deg, #1CB5E0 0%, #000851 100%);
     background-attachment: fixed;
+    z-index: 10000;
   }
   
   #navbar a {
@@ -153,8 +154,7 @@ body {
       color: black;
       font-size: smaller;
       z-index: 1000;
-      padding-left: 4%;
-      text-align: right;
+      text-align: center;
   }
 
   .footer a {
