@@ -170,6 +170,7 @@ body {
       margin: 0 !important;
       background-image: url(bg.png);
       color: black;
+      text-align: center;
   }
 
   .bg {
